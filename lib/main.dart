@@ -34,7 +34,7 @@ class MyHomePage extends StatelessWidget {
           mainAxisAlignment: MainAxisAlignment.center,
           children: <Widget>[
             Image.network(
-              'https://stackwordpress.com/navoki/wp-content/uploads/2019/09/200_40.png',
+              'https://navoki.com/wp-content/uploads/2019/09/200_40.png',
               scale: 0.5,
             ),
             Padding(
