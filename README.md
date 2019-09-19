@@ -3,7 +3,7 @@
 
 Read my article here https://navoki.com/getting-started-with-flutter-web/
 
- ![sample](https://github.com/theshivamlko/plurals_flutter_example/image_imac2013_front2-min.png)
+ ![sample](https://github.com/theshivamlko/FlutterWebDemo_Firebase/blob/master/image_imac2013_front2-min.png)
 
 
 ## Project Created & Maintained By
